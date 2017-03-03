@@ -167,5 +167,9 @@
 
 
 2017年2月7日
+<<<<<<< HEAD
+=======
+---------------
+>>>>>>> refs/remotes/exacity/master
  - @germany-zhu  ==> Chapter1, 语音术语
  - @kangqf ==> Chapter8, loccal_minima 笔误
